@@ -19,7 +19,7 @@ public class InterviewQuestion182 {
 
     public ListNode deleteDuplication(ListNode pHead) {
         if (pHead == null) {
-            throw new RuntimeException("链表不能为空kk！");
+            throw new RuntimeException("链表不能为空kkkkkkkkk！");
         }
         ListNode preNode = null;
         ListNode pNode = pHead;
